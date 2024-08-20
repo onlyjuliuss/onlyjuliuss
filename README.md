@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onlyjuliuss
+- 👋 Hi, I’m Julius
 - 👀 I’m interested in tech, programming and art
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on anything tech
